@@ -11,7 +11,7 @@ We created a unique dataset using API calls from sec-api.io to gather executive 
 
 ## Navigation
 
-This repository is organized in several subdirectories:
+The repository is organized in several subdirectories:
 
 ### [Analysis](https://github.com/kbaum215/ADS502_Group_Project/tree/main/Analysis)
 
@@ -19,11 +19,13 @@ This directory contains iterative attempts for analyzing the data and experiment
 
 For final classification model results, please see the [classification_models.ipynb Jupyter notebook](https://github.com/kbaum215/ADS502_Group_Project/blob/main/Analysis/classification_models.ipynb)
 
+### datasets
+
+This directory contains both raw and processed datasets, used for exploratory data analysis and modeling, respectively.
 ### EDA
 
-### StockRow financials
-
-### datasets
+This directory contains Jupyter notebooks for analyzing the raw datasets as well as preprocessing for eventual modeling.
 
 ### images
 
+This directory contains notable images of data visualizations relevant to EDA and model evaluation.
