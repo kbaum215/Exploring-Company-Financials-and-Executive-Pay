@@ -19,13 +19,14 @@ This directory contains iterative attempts for analyzing the data and experiment
 
 For final classification model results, please see the [classification_models.ipynb Jupyter notebook](https://github.com/kbaum215/ADS502_Group_Project/blob/main/Analysis/classification_models.ipynb)
 
-### datasets
+### [datasets](https://github.com/kbaum215/ADS502_Group_Project/tree/main/datasets)
 
 This directory contains both raw and processed datasets, used for exploratory data analysis and modeling, respectively.
-### EDA
 
-This directory contains Jupyter notebooks for analyzing the raw datasets as well as preprocessing for eventual modeling.
+### [EDA](https://github.com/kbaum215/ADS502_Group_Project/tree/main/EDA)
 
-### images
+This directory contains Jupyter notebooks for analyzing the raw datasets as well as preprocessing for eventual modeling. See [EDA_CEO_changes.ipynb](https://github.com/kbaum215/ADS502_Group_Project/blob/main/EDA/EDA_CEO_changes.ipynb) to review the primary working notebook.
+
+### [images](https://github.com/kbaum215/ADS502_Group_Project/tree/main/images)
 
 This directory contains notable images of data visualizations relevant to EDA and model evaluation.
