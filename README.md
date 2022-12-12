@@ -1,7 +1,7 @@
 # Analyzing Company Financials to Classify Executive Titles
 #### Kevin W.S. Baum and Stephen F. Reagin
 
-This is a project satisfying the requirements of the Fall 2022 cohort of ADS502, Applied Data mining.
+This is a project satisfying the requirements of the Fall 2022 cohort for ADS502--Applied Data mining.
 
 ## Motivation
 
